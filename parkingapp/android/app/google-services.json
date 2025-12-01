@@ -1,0 +1,29 @@
+  {
+    "project_info": {
+      "project_number": "811630427467",
+      "project_id": "madflutter-49988",
+      "storage_bucket": "madflutter-49988.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:811630427467:android:1e93a421fb9590424b7cce",
+          "android_client_info": {
+            "package_name": "es.upm.btb.helloworldft"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyASNtpmWm8-tC2ioI-wh-y9U5TF42xAPBQ"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
